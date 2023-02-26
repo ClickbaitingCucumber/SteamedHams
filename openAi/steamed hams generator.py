@@ -15,7 +15,7 @@ import imageio.v2 as imageio
 import re
 
 #set this to the api key for your open ai account
-openai.api_key = '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'
+openai.api_key = ' '
 
 #STAGE 1:   converts video to a png sequence
 currentFrame = 0
